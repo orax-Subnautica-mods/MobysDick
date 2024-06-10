@@ -1,3 +1,4 @@
 MobysDick/lib/VehicleFramework.dll filter=lfs diff=lfs merge=lfs -text
 resources/MobysDick/assets/mobysdick filter=lfs diff=lfs merge=lfs -text
 resources/MobysDick/assets/mobysdick.manifest filter=lfs diff=lfs merge=lfs -text
+resources/MobysDick/assets/MobysDick.unitypackage filter=lfs diff=lfs merge=lfs -text
